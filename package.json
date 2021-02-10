@@ -22,6 +22,9 @@
     "@angular/platform-browser-dynamic": "~11.1.2",
     "@angular/router": "~11.1.2",
     "@angular/service-worker": "~11.1.2",
+    "highcharts": "^9.0.0",
+    "highcharts-angular": "^2.9.0",
+    "lightweight-charts": "^3.3.0",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
     "zone.js": "~0.11.3"
